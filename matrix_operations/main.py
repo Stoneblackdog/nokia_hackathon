@@ -54,7 +54,4 @@ with open('./input.txt', 'r') as f:
     for operation in operations:
         print('\n' + operation)
         for line in do_operation(operation, matrices):
-            for number in line:
-                print(number, end=' ')
-            print()
-        print()
+            print(*line, sep=' ')
