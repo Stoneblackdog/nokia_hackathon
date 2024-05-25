@@ -10,10 +10,10 @@ class Node:
 
 
 def create_graph(maze: str):
-    # transform maze into more usable variant without spaces or newlines
+    # Transform maze into more usable variant without spaces or newlines
     maze = maze.replace(' ', '').split('\n')
     maze = list(filter(None, maze))
-    # "swap" characters for nodes
+    # "Swap" characters for nodes
     node_matrix = [[Node(ty) for ty in line] for line in maze]
     start = None
 
