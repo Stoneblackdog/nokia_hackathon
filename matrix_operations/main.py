@@ -50,4 +50,11 @@ with open('./input.txt', 'r') as f:
         'J': scan_matrix(lines, 'J'),
     }
     operations = scan_operations(lines)
-    print(do_operation(operations[3], matrices))
+
+    for operation in operations:
+        print(operation)
+        for line in do_operation(operation, matrices):
+            for number in line:
+                print(number, end=' ')
+            print()
+        print()
