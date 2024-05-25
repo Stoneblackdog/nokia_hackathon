@@ -51,7 +51,7 @@ with open('./input.txt', 'r') as f:
     }
     operations = scan_operations(lines)
 
-    print()
+    print('\n')
     for operation in operations:
         print(operation)
         for line in do_operation(operation, matrices):
