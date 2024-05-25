@@ -15,6 +15,7 @@ def walk_ast(root_node: Node, matrices: dict):
 
     return result
 
+
 def do_operation(operation: str, matrices: dict):
     operation = operation.split(' ')
     parser = Parser(operation)
