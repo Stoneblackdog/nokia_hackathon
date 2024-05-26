@@ -41,3 +41,10 @@
 	x = 1,6
 
 	Válasz: Juliska 1,6 órát biciklizett.
+
+8.:	85 darab kis négyzet a két átlóban.
+	1 db közös négyzet.
+	1 átló négyzetei (közösen kívül): 85 - 1 / 2 = 42
+	1 átló hossza (közössel együtt): 43
+	1 oldal hossza: 43 cm
+	Nagy négyzet területe: 43^2 = 1849 cm^2
