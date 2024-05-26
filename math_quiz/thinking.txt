@@ -46,8 +46,9 @@
 	Ha összekötjük a rácspontot a középponttal és azt vesszük egy derékszögű
 	háromszög átfogójának, akkor az 5 egység hosszú kell legyen.
 	x^2+y^2	= 5^2
-	Mivel pitagoraszi számhármasokat keresünk, ezért x és y kettő különböző érték lehet csak.
-	Tehát mivel kettő szám áll rendelkezésre, így egy "negyedben" csak 2 ilyen pont van.
+	x és y kettő különböző érték lehet csak.
+	Tehát mivel kettő szám áll rendelkezésre, így egy "negyedben" csak 2 ilyen pont van
+	(mert fel tudjuk cserélni az x-et és az y-t).
 	Ezt meg kell szorozni 4-gyel, mert 4 negyedünk van.
 
 	Válasz: Összesen 12 db rácspont esik a körvonalra.
