@@ -63,6 +63,7 @@ def solve_maze(maze: str):
     stack = []
     open_nodes = [start]
 
+    # backtrack to start
     current_node = find_destination_node(open_nodes)
     while True:
         stack.append(current_node)
@@ -70,6 +71,7 @@ def solve_maze(maze: str):
             break
         current_node = current_node.came_from
 
+    # go to end again
     while current_node.ty != 'G':
         popped_node = stack.pop()
         if popped_node == current_node.up:
