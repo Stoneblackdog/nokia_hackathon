@@ -42,9 +42,21 @@
 
 	Válasz: Juliska 1,6 órát biciklizett.
 
+4.:	(0;5)-nél és (5;0)-nál egyértelműen ráesnek a rácspontok a körvonalra.
+	Ha összekötjük a rácspontot a középponttal és azt vesszük egy derékszögű
+	háromszög átfogójának, akkor az 5 egység hosszú kell legyen.
+	x^2+y^2	= 5^2
+	Mivel pitagoraszi számhármasokat keresünk, ezért x és y kettő különböző érték lehet csak.
+	Tehát mivel kettő szám áll rendelkezésre, így egy "negyedben" csak 2 ilyen pont van.
+	Ezt meg kell szorozni 4-gyel, mert 4 negyedünk van.
+
+	Válasz: Összesen 12 db rácspont esik a körvonalra.
+
 8.:	85 darab kis négyzet a két átlóban.
 	1 db közös négyzet.
 	1 átló négyzetei (közösen kívül): 85 - 1 / 2 = 42
 	1 átló hossza (közössel együtt): 43
 	1 oldal hossza: 43 cm
 	Nagy négyzet területe: 43^2 = 1849 cm^2
+
+	Válasz: A nagy négyzet területe 1849 cm^2.

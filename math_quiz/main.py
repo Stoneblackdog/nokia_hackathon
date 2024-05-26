@@ -1,7 +1,7 @@
 print('1.: 100')
 print('2.:')
 print('3.: 1.6')
-print('4.:')
+print('4.: 12')
 print('5.:')
 print('6.:')
 print('7.:')
