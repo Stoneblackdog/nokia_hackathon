@@ -1,3 +1,22 @@
+1.:	Vonat hossza = x (m)
+	Vonat sebessége = y
+
+	Amennyi utat az egyik pontja megtesz 30 másodperc alatt: 
+		30 s -> 300 m + x
+	Amennyi utat az egyik pontja megtesz 5 másodperc alatt:
+		5 s  -> x
+
+	v = s / t
+	y = (300 + x) / 20
+	y = x / 5
+	(300 + x) / 20	= x / 5		/ kn
+	(300 + x) / 20	= 4x / 20	/ * 20
+	300 + x		= 4x		/ - x
+	300		= 3x		/ : 3
+	x		= 100
+
+	Válasz: A vonat 100 méter hosszú.
+
 3.:	Juliska biciklizési ideje: x (h)
 	Juliska sétálási ideje: y (h)
 
