@@ -12,7 +12,7 @@
 
 	10x + 4y = 20
 	24y + 10x = 40	
-	egyenletek kivonása egymásból (alsó - felső)
+	Egyenletek kivonása egymásból (alsó - felső)
 
 	20y = 20 	/ : 20
 	y = 1
