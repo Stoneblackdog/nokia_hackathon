@@ -48,7 +48,7 @@
 	Ha összekötjük a rácspontot a középponttal és azt vesszük egy derékszögű
 	háromszög átfogójának, akkor az 5 egység hosszú kell legyen.
 	x^2+y^2	= 5^2
-	x és y kettő különböző egész szám lehet csak.
+	x és y kettő különböző egész szám lehet csak (3 és 4, pitagoraszi számhármasok).
 	Tehát mivel kettő egész szám áll csak rendelkezésre, így egy "negyedben" csak 2 ilyen pont
 	lehet (mert fel tudjuk cserélni az x-et és az y-t).
 	Ezt meg kell szorozni 4-gyel, mert 4 negyedünk van.
@@ -63,3 +63,28 @@
 	Nagy négyzet területe: 43^2 = 1849 cm^2
 
 	Válasz: A nagy négyzet területe 1849 cm^2.
+
+9.:	x darab angol
+	y darab magyar
+	z darab ember összesen
+	198 + 308 = 506 köszönés összesen
+
+	z (z - 1)	= 506	/ zf
+	z^2 - z		= 506	/ - 506
+	z^2 - z - 506	= 0
+	z1 = 23
+	z2 = -22 -- feladathoz nem releváns
+
+	23 ember
+
+	(23 - y) (23 - 1)	= 198	/ zf
+	529 - 23 - 23y + y	= 198	/ öv
+	506 - 22y		= 198	/ - 198
+	308 - 22y		= 0	/ + 22y
+	308			= 22y	/ : 22
+	y			= 14
+
+	x = 23 - 14
+	x = 9
+
+	Válasz: 9 db angol van.
