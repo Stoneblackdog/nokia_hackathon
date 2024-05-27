@@ -40,15 +40,17 @@
 	10x	= 16	/ : 10
 	x	= 1,6
 
-	Válasz: Juliska 1,6 órát biciklizett.
+	1,6 h * 10 km / h = 16 km
+
+	Válasz: Juliska 16 km-t biciklizett.
 
 4.:	(0;5)-nél és (5;0)-nál egyértelműen ráesnek a rácspontok a körvonalra.
 	Ha összekötjük a rácspontot a középponttal és azt vesszük egy derékszögű
 	háromszög átfogójának, akkor az 5 egység hosszú kell legyen.
 	x^2+y^2	= 5^2
-	x és y kettő különböző érték lehet csak.
-	Tehát mivel kettő szám áll rendelkezésre, így egy "negyedben" csak 2 ilyen pont van
-	(mert fel tudjuk cserélni az x-et és az y-t).
+	x és y kettő különböző egész szám lehet csak.
+	Tehát mivel kettő egész szám áll csak rendelkezésre, így egy "negyedben" csak 2 ilyen pont
+	lehet (mert fel tudjuk cserélni az x-et és az y-t).
 	Ezt meg kell szorozni 4-gyel, mert 4 negyedünk van.
 
 	Válasz: Összesen 12 db rácspont esik a körvonalra.
